@@ -1,6 +1,7 @@
 ## Endpoints
 
 getBooks - GET /api/books
+
 <img width="749" height="862" alt="Screenshot 2026-02-24 103225" src="https://github.com/user-attachments/assets/a4287707-e11b-4352-9cae-e21ff3f3874e" />
 
 
