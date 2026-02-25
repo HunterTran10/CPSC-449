@@ -1,14 +1,15 @@
 ## Endpoints
 
 ## getBooks - GET /api/books
-<img width="1475" height="876" alt="image" src="https://github.com/user-attachments/assets/ea5874ab-2144-458e-b185-df28b3dbd4cb" />
+<img width="1471" height="875" alt="image" src="https://github.com/user-attachments/assets/bed5e70a-17d0-48bf-81d8-06865141a65c" />
 
 
 
 
 
 ## getBook - GET /api/books/{id}
-<img width="1495" height="877" alt="Screenshot 2026-02-24 103553" src="https://github.com/user-attachments/assets/de741dff-1292-49bd-a564-2c5e21a80a80" />
+<img width="1466" height="869" alt="image" src="https://github.com/user-attachments/assets/0e34b245-45b2-4459-aaf8-f789d4f91d84" />
+
 
 
 
